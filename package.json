@@ -1,0 +1,6 @@
+{
+  "name": "rap-battle-bot",
+  "version": "0.0.1-alpha",
+  "main": "index.js",
+  "license": "Apache 2"
+}
